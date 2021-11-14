@@ -1,0 +1,30 @@
+{
+	"storyName": "phone...",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"menacing",
+			"dad",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "bambee"
+}
